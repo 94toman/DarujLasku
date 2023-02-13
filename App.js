@@ -1,5 +1,7 @@
 import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 
+// https://edigleyssonsilva.medium.com/cloud-functions-for-firebase-sending-e-mail-1f2631d1022e
+
 export default function App() {
 	const sendLoveToMartin = () => {
 		alert('Love sent to Martin');
