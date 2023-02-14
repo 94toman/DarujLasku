@@ -15,7 +15,7 @@ export default function App() {
 		<View style={styles.container}>
 			<View style={styles.halfScreen} backgroundColor={black}>
 				<TouchableOpacity style={styles.buttonWhite} onPress={sendLoveToMartin}>
-					<Text>DARUJ LÁSKU MARTINOVI TEST</Text>
+					<Text>DARUJ LÁSKU MARTINOV</Text>
 				</TouchableOpacity>
 			</View>
 			<View style={styles.halfScreen} backgroundColor={white}>
